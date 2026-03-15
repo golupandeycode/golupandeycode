@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Golu Pandey
 
-<!--
-**golupandeycode/golupandeycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | React | Django | Python  
 
-Here are some ideas to get you started:
+🔭 Currently Working On:
+- Chess Engine in Python
+- Full Stack Web Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning:
+- Advanced Django
+- Data Structures & Algorithms
+
+🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Python, Django
+- Database: MySQL
+- Cloud: AWS (Basic)
+
+📫 Contact Me
+Email: pandeygolu15986@gmail.com
+Portfolio: https://tulsava.in
