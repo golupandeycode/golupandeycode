@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final Year CSE Student (Pass Out 2025)
+- 🎓 Graduate (Pass Out 2025)
 - 🧠 Strong foundation in Data Structures, Algorithms & System Design
 - 🔐 Experienced in building secure, scalable backend services
 - ☁️ Hands-on experience with cloud-ready backend architectures (AWS)
